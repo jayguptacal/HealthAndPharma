@@ -1,5 +1,7 @@
 # Can We Predict if a Cell is Malignant or Benign with Machine Learning?
 
+CHECK OUT MODELING HERE ==>> <a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/Id_Malignant_Benign_with_ML.ipynb">Modeling Notebook</a> and for any reason if the notebook does not load properly or there is an error message, please reload the notebook!
+
 ## Introduction
 <p>Machine learning applications in cancer prognosis and prediction is a constantly evolving trend. As machine learning techniques are getting better, many scientists are predicting that the machine learning is the future of cancer prediction.</p>
 

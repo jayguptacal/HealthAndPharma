@@ -7,7 +7,7 @@ CHECK OUT MODELING HERE ==>> <a href="https://github.com/jayguptacal/HealthAndPh
 
 <p>As per this <a href="https://journals.sagepub.com/doi/pdf/10.1177/1748301818756225" >Scientific Journal</a>, breast cancer is the second most leading cancer in women compared to all other cancers. </p>
 
-<p>In order to support the research and prepare future machine learning scientists, [Center for Machine Learning and Intelligent Systems](https://archive.ics.uci.edu/ml/datasets/breast+cancer) has made the breast cancer data publicly available for research and scientific studies.</p>
+<p>In order to support the research and prepare future machine learning scientists, <a href="https://archive.ics.uci.edu/ml/datasets/breast+cancer">Center for Machine Learning and Intelligent Systems</a> has made the breast cancer data publicly available for research and scientific studies.</p>
 
 ## Problem Identification and Data Features Description
 

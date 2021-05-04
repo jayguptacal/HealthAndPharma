@@ -1,5 +1,9 @@
 # Can We Predict if the Body Cell is Malignant or Benign with Machine Learning?
 
+<p align="center">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/BodyCellWelcome.jpg">
+</p>
+
 ## Introduction
 <p>Machine learning applications in cancer prognosis and prediction is a constantly evolving trend. As machine learning techniques are getting better, many scientists are predicting that the machine learning is the future of cancer prediction.</p>
 
@@ -38,9 +42,7 @@ In summary, as we grow older,throughout a lifetime, we go through this knid of s
 **Benign** ==> Not Cancerous (Healthy)
 
 ## Check-Out Jupyter Notebook For Different Steps of Machine Learning Modeling ##
-<p align="center">
-<img src="https://github.com/jayguptacal/portfolio/blob/main/image/BodyCellWelcome.jpg">
-</p>
+
 
 CHECK OUT MODELING HERE ==>> 
 

@@ -1,7 +1,5 @@
 # Can We Predict if the Body Cell is Malignant or Benign with Machine Learning?
 
-CHECK OUT MODELING HERE ==>> <a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/Id_Malignant_Benign_with_ML.ipynb">Modeling Notebook</a> and for any reason if the notebook does not load properly or there is an error message, please reload the notebook!
-
 ## Introduction
 <p>Machine learning applications in cancer prognosis and prediction is a constantly evolving trend. As machine learning techniques are getting better, many scientists are predicting that the machine learning is the future of cancer prediction.</p>
 
@@ -38,3 +36,17 @@ In summary, as we grow older,throughout a lifetime, we go through this knid of s
 **Malignant** ==> Cancerous
 
 **Benign** ==> Not Cancerous (Healthy)
+
+## Check-Out Jupyter Notebook For Different Steps of Machine Learning Modeling ##
+<p align="center">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/BodyCellWelcome.jpg">
+</p>
+
+CHECK OUT MODELING HERE ==>> <a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/Id_Malignant_Benign_with_ML.ipynb">Modeling Notebook</a> and for any reason if the notebook does not load properly or there is an error message, please reload the notebook!
+
+If you are interested in details of each phase, please refer the Jupyter Notebooks here one by one. While clicking on the below links for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
+
+## Check-Out Jay Gupta's Portfolio for Other Machine Learning Projects ##
+<p align="center">
+<a href="https://github.com/jayguptacal/portfolio/blob/main/README.md" target="_blank"><img src="https://github.com/jayguptacal/portfolio/blob/main/image/FullPortfolioBanner.jpg"></a>
+</p>

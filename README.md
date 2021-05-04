@@ -44,12 +44,13 @@ In summary, as we grow older,throughout a lifetime, we go through this knid of s
 
 CHECK OUT MODELING HERE ==>> <a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/Id_Malignant_Benign_with_ML.ipynb">Modeling Notebook</a> and for any reason if the notebook does not load properly or there is an error message, please reload the notebook!
 
-| **Access Machine Learning Modeling Jupyter Notebook Here:** 
-|
-> <a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/Id_Malignant_Benign_with_ML.ipynb">Modeling Notebook</a>
-> 
-> **Please reload the notebook if it does not load properly!**
->|
+'''
+**Access Machine Learning Modeling Jupyter Notebook Here:** 
+
+<a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/Id_Malignant_Benign_with_ML.ipynb">Click here to Access Machine Learning Modeling Notebook</a>
+
+**Please reload the notebook if it does not load properly!**
+'''
 
 
 

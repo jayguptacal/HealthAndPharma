@@ -43,18 +43,14 @@ In summary, as we grow older,throughout a lifetime, we go through this knid of s
 
 ## Check-Out Jupyter Notebook For Different Steps of Machine Learning Modeling ##
 
+While clicking on the below link for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
 
-CHECK OUT MODELING HERE ==>> 
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/bannerOpenNotebooks.jpg">
 
+* <a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/Id_Malignant_Benign_with_ML.ipynb">Click here to Access Machine Learning Modeling Notebook</a>
 
->**Access Machine Learning Modeling Jupyter Notebook Here:** 
->
-><a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/Id_Malignant_Benign_with_ML.ipynb">Click here to Access Machine Learning Modeling Notebook</a>
->
->**Please reload the notebook if it does not load properly!**
+==>> While clicking on the above link for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
 
-
-==>>If you want to keep this page open, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
 
 ## Check-Out Jay Gupta's Portfolio for Other Machine Learning Projects ##
 <p align="center">
